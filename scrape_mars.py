@@ -107,4 +107,35 @@ def hemispheres(browser):
         
 
     return hemisphere_image_urls
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
